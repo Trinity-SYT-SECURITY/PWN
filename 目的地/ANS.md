@@ -7,8 +7,8 @@
 
 ![pwn](https://github.com/Trinity-SYT-SECURITY/PWN/raw/main/pass/execpass.png)
 
->通常題目都會提供nc，並附上遠端server ip & port，nc是一個指令，讓你可以遠端到對方電腦查看題目
+    通常題目都會提供nc，並附上遠端server ip & port，nc是一個指令，讓你可以遠端到對方電腦查看題目
 
->nc過去只能輸入東西並查看程式的輸出，如果是在自己電腦的話就可以用GDB去追或是patch之類的
+    nc過去只能輸入東西並查看程式的輸出，如果是在自己電腦的話就可以用GDB去追或是patch之類的
 
 **總結就是遠端只是一個原始的binary，你只能對他做輸入的動作**
